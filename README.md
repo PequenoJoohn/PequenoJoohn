@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
-<h4 align="center">I am a web developer, create personal projects from websites (web pages) for registration systems. Use my schedule for studies and work (freelancer), having little knowledge in design, also create brochures, business cards and website structures. In free time electronic games with my friends. I love to exchange ideas about programming and help newbies.</h4>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pequenojoohn" alt="pequenojoohn" /> </p>
+<h4 align="justify">I am a web developer, create personal projects from websites (web pages) for registration systems. Use my schedule for studies and work (freelancer), having little knowledge in design, also create brochures, business cards and website structures. In free time electronic games with my friends. I love to exchange ideas about programming and help newbies.</h4>
 
 - 🔭 I’m currently working on **imersaoReact**
 
