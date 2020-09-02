@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
-<h4 align="justify">I am a web developer, create personal projects from websites (web pages) for registration systems. Use my schedule for studies and work (freelancer), having little knowledge in design, also create brochures, business cards and website structures. In free time electronic games with my friends. I love to exchange ideas about programming and help newbies.</h4>
+<h4 align="justify">Full-stack software developer with a solid knowledge in design, mainly working on personal projects and self-employed making and maintaining registration systems. I use my free time to learn and apply my knowledge to solve real-world problems to gain practical job experience. I love to talk about computer programming, help beginners with bug fixing and I use to enjoy my weekends playing online games with my friends.</h4>
 
 - 🌱 I’m currently learning **React**
 
 - 🎮 Playing **Valorant**
 
-- 💬 Ask me about **Css**
+- 💬 Ask me about **Css** <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>
 
 - 📫 How to reach me **jonathan.matos2445@gmail.com**
 
