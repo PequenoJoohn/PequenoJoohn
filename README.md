@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 🎮 Playing **Valorant**
+- 🎮 Playing **League Of Legends**
 
 - 💬 Ask me about **CSS** <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>
 
