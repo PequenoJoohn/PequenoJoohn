@@ -5,7 +5,7 @@
 
 - 🎮 Playing **League Of Legends**
 
-- 💬 Ask me about **CSS** <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>
+- 💬 Ask me about **CSS**
 
 - 📫 How to reach me **jonathan.matos2445@gmail.com**
 
