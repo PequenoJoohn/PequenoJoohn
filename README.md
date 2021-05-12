@@ -6,9 +6,7 @@
 - 🎮 Playing **League Of Legends**
 
 - 💬 Ask me about **CSS**
-
-- 📫 How to reach me **jonathan.matos2445@gmail.com**
-
+- 
 - ⚡ Fun fact **I hate coffee, really.**
 
 - 🏋 Sport **I love bodybuilding**
