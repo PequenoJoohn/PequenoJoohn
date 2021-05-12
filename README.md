@@ -6,7 +6,7 @@
 - 🎮 Playing **League Of Legends**
 
 - 💬 Ask me about **CSS**
-- 
+
 - ⚡ Fun fact **I hate coffee, really.**
 
 - 🏋 Sport **I love bodybuilding**
