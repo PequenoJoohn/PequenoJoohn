@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NextJS/Docker/Golang**
 
-- 🎮 Playing **League Of Legends and Apex**
+- 🎮 Playing **League Of Legends and CS 2**
 
 - 💬 Ask me about **CSS or Javascript**
 
