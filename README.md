@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python/Django**
 
-- 🎮 Playing **Ragnarok Online**
+- 🎮 Playing **Valorant**
 
 - 💬 Ask me about **CSS or Javascript**
 
