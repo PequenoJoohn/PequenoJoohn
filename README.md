@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python/Django**
 
-- 🎮 Playing **Valorant**
+- 🎮 Playing **Nothing**
 
 - 💬 Ask me about **CSS or Javascript**
 
